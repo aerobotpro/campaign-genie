@@ -1,0 +1,32 @@
+class lists:
+    smtp_common = {
+        "smtp.gmail.com",
+        "smtp.live.com",
+        "smtp.office365.com",
+        "smtp.mail.yahoo.com",
+        "plus.smtp.mail.yahoo.com",
+        "smtp.mail.yahoo.co.uk",
+        "smtp.mail.yahoo.com.au",
+        "smtp.o2.ie",
+        "mail.o2online.de",
+        "smtp.o2.co.uk",
+        "smtp.aol.com",
+        "smtp.att.yahoo.com",
+        "smtp.ntlworld.com",
+        "pop3.btconnect.com",
+        "mail.btopenworld.com",
+        "mail.btinternet.com",
+        "smtp.orange.net",
+        "smtp.orange.co.uk",
+        "smtp.wanadoo.co.uk",
+        "securesmtp.t-online.de",
+        "smtp.1and1.com",        
+        "smtp.1und1.de",
+        "smtp.comcast.net",
+        "outgoing.verizon.net",
+        "outgoing.yahoo.verizon.net",        
+        "smtp.zoho.com",
+        "smtp.gmx.com",
+        "smtp.postoffice.net"  
+        }
+    
