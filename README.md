@@ -15,8 +15,8 @@ paul123@example.com
 ```
 -------------------------
 
-> If using gmail(preferred), "allow insecue apps" in your google account settings,
-you'll find it [here: myaccount.google.com/lesssecureapps](https://myaccount.google.com/lesssecureapps).
+> If using gmail(preferred), you'll need to "allow insecue apps" to send emails using Python via your google account,
+you'll find the option to do so [here: myaccount.google.com/lesssecureapps](https://myaccount.google.com/lesssecureapps).
 
 -------------------------
 
