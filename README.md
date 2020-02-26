@@ -4,8 +4,10 @@ A simple mass-emailer for small businesses and positive(legal) email campaigns. 
 ## Updates:
 I will continue to provide updates here :)
 
-## Tutorial:
-Coming Soon!
+## Basic Tutorial:
+Mailing List File Format:
+> johndoe@gmail.com
+> janedoe@live.com
 
 ### Version Control:
 Application-name/ "CampaignGenie"
