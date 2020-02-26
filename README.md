@@ -7,7 +7,12 @@ I will continue to provide updates here :)
 ## Basic Tutorial:
 Mailing List File Format:
 > johndoe@gmail.com
+
 > janedoe@live.com
+
+> burritoguy@live.com
+
+> paul123@example.com
 
 ### Version Control:
 Application-name/ "CampaignGenie"
